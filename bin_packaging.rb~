@@ -1,6 +1,0 @@
-class BinPacking
-  def say_hello
-    @return = "hello, rails"
-  end
-
-end
