@@ -1,9 +1,0 @@
-
-
-describe BinPacking do
-  it "should return a greeting" do
-    b = BinPacking.new
-    result.should eql? "packer.initialized"
-  end
-
-end
